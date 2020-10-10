@@ -1,0 +1,37 @@
+form{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.signup-feild{
+    margin-top: 5%;
+    width: 70%;
+    margin-left: auto;
+
+}
+#main_body_div{
+    width: 50%;
+    height: 100%;
+}
+body{
+    background-color: rgb(80, 80, 80);
+    background-image: url("back.png");
+    width: 100%;
+}
+.row
+{
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 25%;
+    width: 50%;
+    height: 70%;
+    background-color: white;
+}
+#row1_body_div2{
+    height: 70%;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 1px solid rgb(52, 124, 172);
+}
